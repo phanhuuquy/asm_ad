@@ -1,0 +1,1257 @@
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\appsettings.Development.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\appsettings.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.exe
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.deps.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Tranning.pdb
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.dll
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.pdb
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Azure.Core.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Humanizer.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\trieut6\C#\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+E:\trieut6\C#\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\appsettings.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.exe
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.deps.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Tranning.pdb
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Humanizer.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.pdb
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ducph\OneDrive\Desktop\Tranning\Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\appsettings.Development.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\appsettings.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.exe
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.deps.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Tranning.pdb
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Azure.Core.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Humanizer.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.pdb
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+D:\Mulie\Sem6\ASM_Tranning\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\appsettings.Development.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\appsettings.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.exe
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.deps.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Tranning.pdb
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Azure.Core.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Humanizer.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.pdb
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+D:\Mulie\Sem6\ASM_Trainning\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\appsettings.json
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.exe
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.deps.json
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Tranning.pdb
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Humanizer.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.pdb
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+C:\Users\khanh\Documents\GitHub\AD_ASM-main\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\appsettings.Development.json
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\appsettings.json
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.exe
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.deps.json
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.pdb
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Azure.Core.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Humanizer.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.pdb
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+D:\Downloads\thaytrieu-main\thaytrieu-main\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\appsettings.Development.json
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\appsettings.json
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.exe
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.deps.json
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Tranning.pdb
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Azure.Core.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Humanizer.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.pdb
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Build.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\NuGet.Common.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\thaytrieu-main - Copy\thaytrieu-main\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\appsettings.Development.json
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\appsettings.json
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.exe
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.deps.json
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.pdb
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Azure.Core.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Humanizer.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Build.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Common.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.pdb
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+D:\study\asm-Net-8\asm-Net-8\Tranning\obj\Debug\net7.0\ref\Tranning.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\appsettings.Development.json
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\appsettings.json
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.staticwebassets.runtime.json
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.exe
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.deps.json
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.runtimeconfig.json
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Tranning.pdb
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Azure.Core.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Azure.Identity.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Humanizer.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Build.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Common.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.CodeDom.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Memory.Data.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.csproj.AssemblyReference.cache
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfoInputs.cache
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.AssemblyInfo.cs
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.csproj.CoreCompileInputs.cache
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.MvcApplicationPartsAssemblyInfo.cache
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cache
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.RazorAssemblyInfo.cs
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets.build.json
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets.development.json
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.Tranning.Microsoft.AspNetCore.StaticWebAssets.props
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.build.Tranning.props
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Tranning.props
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Tranning.props
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\staticwebassets.pack.json
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\scopedcss\bundle\Tranning.styles.css
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\scopedcss\projectbundle\Tranning.bundle.scp.css
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.csproj.CopyComplete
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\refint\Tranning.dll
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.pdb
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\Tranning.genruntimeconfig.cache
+D:\study\asm_quyz\asm-Net-8\Tranning\obj\Debug\net7.0\ref\Tranning.dll
